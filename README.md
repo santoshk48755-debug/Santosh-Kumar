@@ -1,5 +1,5 @@
 ## About Me
-This is my first Git Repository. 
+This is my first GitHub Repository. 
 <br>
 Author - Santosh Kumar
 <br>
