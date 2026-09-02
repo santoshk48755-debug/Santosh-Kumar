@@ -1,8 +1,7 @@
-# Santosh-Kumar
+## About Me
 This is my first Git Repository. 
 <br>
 Author - Santosh Kumar
-## About Me
 <br>
 Aspiring Data Analyst & Data Scientist
 <br>
