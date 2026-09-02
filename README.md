@@ -5,7 +5,7 @@ Author - Santosh Kumar
 <br>
 Aspiring Data Analyst & Data Scientist
 <br>
-Learning python, SQL, Excel, PowerBI
+Learning Python, SQL, Excel, PowerBI
 <br>
 Turning Data into Insights
 
